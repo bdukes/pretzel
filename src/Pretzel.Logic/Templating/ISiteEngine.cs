@@ -1,6 +1,5 @@
 using System.ComponentModel.Composition;
 using System.IO.Abstractions;
-using Pretzel.Logic.Templating.Jekyll;
 
 namespace Pretzel.Logic.Templating
 {
